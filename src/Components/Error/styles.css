@@ -1,0 +1,11 @@
+.error-container{
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 39rem;
+}
+.error-img{
+    height: 25rem;
+}

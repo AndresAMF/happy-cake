@@ -1,0 +1,10 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto", sans-serif;
+    height: 4.3rem;
+    font-size: 1.3rem;
+    background-color: rgb(184, 0, 0);
+    color: white;
+}

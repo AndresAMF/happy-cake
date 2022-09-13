@@ -1,0 +1,30 @@
+h1, p{
+    margin: 0.3em;
+}
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    font-family: "Roboto", sans-serif;
+    padding-top: 1rem;
+}
+.home-img{
+    width: 10rem;
+}
+.galery{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    height: auto;
+    background-color: bisque;
+    padding: 1rem 0rem;
+}
+.galery-img{
+    width: 25rem;
+    height: 20rem;
+    padding: 1rem 0rem;
+}

@@ -1,0 +1,31 @@
+h1{
+    margin: 0.5rem;
+}
+.main-container-contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    padding-bottom: 0.5rem;
+    height: 39rem;
+    font-family: "Roboto", sans-serif;
+}
+.form-element{
+    margin: 0.5rem 0rem;
+}
+input{
+    width: 20rem;
+}
+.mesage{
+    height: 10rem;
+    width: 30rem;
+    margin: 0rem 1rem;
+}
+.button{
+    background-color: rgb(184, 0, 0);
+}
+.button:hover{
+    background-color: rgb(96, 0, 0) !important;
+
+}
