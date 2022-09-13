@@ -19,7 +19,9 @@ nav {
   font-weight: 400;
   font-family: "Roboto", sans-serif;
   color: white;
-  
+}
+.nav-item:hover{
+  color: bisque;
 }
 .brand-container {
   display: flex;
